@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/imgs/ChatGPTImage13feb202608_45_21p.m.png');
+    background-image: url('imgs/ChatGPTImage13feb202608_45_21p.m.png');
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
